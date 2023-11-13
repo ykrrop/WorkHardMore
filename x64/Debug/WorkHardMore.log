@@ -1,2 +1,6 @@
 ﻿  WorkHardMore.cpp
+C:\Users\kriro\OneDrive\Рабочий стол\WorkHardMore\WorkHardMore.cpp(20,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\kriro\OneDrive\Рабочий стол\WorkHardMore\WorkHardMore.cpp(35,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\kriro\OneDrive\Рабочий стол\WorkHardMore\WorkHardMore.cpp(50,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\kriro\OneDrive\Рабочий стол\WorkHardMore\WorkHardMore.cpp(69,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
   WorkHardMore.vcxproj -> C:\Users\kriro\OneDrive\Рабочий стол\WorkHardMore\x64\Debug\WorkHardMore.exe
